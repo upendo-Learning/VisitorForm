@@ -24,3 +24,8 @@ function addTableRow() {
     cell6.innerHTML = 'New Salary';
     cell7.innerHTML = '<input class="btn btn-primary" type="button" value="Send">';
 }
+
+// Function to convert data array to CSV format
+
+
+
